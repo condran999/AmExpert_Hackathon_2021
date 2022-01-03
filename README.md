@@ -1,7 +1,7 @@
 # AmExpert_Hackathon_2021
 
 ### **Problem Statement**
-It is a mid-sized private bank that includes a variety of banking products, such as savings accounts, current accounts, investment products, credit products, and home loans.
+A mid-sized private bank that includes a variety of banking products, such as savings accounts, current accounts, investment products, credit products, and home loans.
 The task is to predict the next set of products (upto 3 products) for a set of customers (test data) based on their demographics and current product holdings.
 
 ### **Approach**
